@@ -25,12 +25,18 @@ uvicorn main:app --reload
 
 ---
 
-### 📊 Features
+###  Features
 ```markdown
-## 📊 Features
+##  Features
 
 - Partner Value Scoring
 - Behavioral Segmentation
 - Negotiation Simulator
 - MIS Dashboard
 - Emerging Merchant Radar
+
+##  Testing
+
+Run backend tests:
+```bash
+pytest
