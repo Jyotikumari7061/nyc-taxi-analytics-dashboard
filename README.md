@@ -16,6 +16,7 @@ cd frontend
 yarn install
 yarn start
 
+**Backend**
 cd backend
 python -m venv venv
 source venv/bin/activate
