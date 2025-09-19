@@ -21,3 +21,16 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+
+---
+
+### 📊 Features
+```markdown
+## 📊 Features
+
+- Partner Value Scoring
+- Behavioral Segmentation
+- Negotiation Simulator
+- MIS Dashboard
+- Emerging Merchant Radar
