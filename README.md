@@ -15,3 +15,9 @@ A full-stack web app that analyzes customer behavior, tracks partner performance
 cd frontend
 yarn install
 yarn start
+
+cd backend
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+uvicorn main:app --reload
