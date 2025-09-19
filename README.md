@@ -40,3 +40,16 @@ uvicorn main:app --reload
 Run backend tests:
 ```bash
 pytest
+
+
+---
+
+###  Contributing & License
+```markdown
+##  Contributing
+
+Pull requests welcome! Open an issue for major changes.
+
+##  License
+
+MIT License
