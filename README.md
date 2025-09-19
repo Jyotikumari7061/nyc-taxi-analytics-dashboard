@@ -7,3 +7,11 @@ A full-stack web app that analyzes customer behavior, tracks partner performance
 **Frontend**: React 19, Tailwind CSS, Radix UI, CRACO  
 **Backend**: FastAPI, MongoDB (motor), Pydantic v2  
 **Dev Tools**: JWT Auth, AWS S3 (boto3), Pytest, Black, ESLint
+
+## Installation
+
+### Frontend
+```bash
+cd frontend
+yarn install
+yarn start
